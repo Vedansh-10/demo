@@ -1,3 +1,3 @@
 # demo
 This is for the learning purpose. 
-Author- Vedansh Naik
+Author - Mr. Vedansh Naik
